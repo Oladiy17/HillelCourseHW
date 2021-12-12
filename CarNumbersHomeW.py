@@ -34,7 +34,7 @@ plates_list = ['HH9901CC', 'CA9150WC', 'BH7144WB', 'AI7665KU', 'AI8045DS', 'HH12
                'BH9461GX', 'AI5102OG', 'BH1786CG', 'HH5379CW', 'BH0598KV', 'HH5136EM', 'HH0676ZO', 'HH8820NP',
                'BH1026KH', 'AI6908OS', 'HH5633KS', 'HH9443PT', 'BH0410LM', 'HH9684NP', 'BH2056RA', 'HH2093CL',
                'CA6675BB', 'AI3178NS', 'CA1542SQ', 'HH5372CB', 'CA4481DG', 'BH4165NO', 'BH4114YT', 'CA7138KZ',
-                'BH1932EV', 'HH9530VO', 'AI4958EQ', 'AI2427CY', 'CA5291CK', 'AI9210IE', 'CA6845XJ', 'CA2238GC',
+               'BH1932EV', 'HH9530VO', 'AI4958EQ', 'AI2427CY', 'CA5291CK', 'AI9210IE', 'CA6845XJ', 'CA2238GC',
                'AI8801UU', 'HH5274LF', 'HH3727MX', 'AI1360KN', 'AI9133YL', 'AI9030DY', 'BH5152SW', 'CA5091BJ',
                'AI3055PO', 'CA8901BT', 'CA2797FQ', 'HH4897WP', 'CA6242SR', 'CA7213BD', 'AI5214PC', 'HH5468SY',
                'CA8518KN', 'AI7592TP', 'CA2290BR', 'HH2260IQ', 'HH1226LC', 'HH9530HK', 'HH2881MB', 'AI8760NT',
@@ -70,7 +70,7 @@ plates_list = ['HH9901CC', 'CA9150WC', 'BH7144WB', 'AI7665KU', 'AI8045DS', 'HH12
                'BH6055GX', 'CA1078RJ', 'BH5484QP', 'BH0239HO', 'AI1887EI', 'CA2434ZR', 'AI5168QP', 'BH1537OZ',
                'CA4836UF', 'HH6192XL', 'AI7844LN', 'AI5065FJ', 'CA5273JS', 'BH1816ZF', 'AI3474UV', 'CA6100FM',
                'HH4607TE', 'HH9897KJ', 'AI0065JQ', 'AI8686DD', 'CA6479NQ', 'BH9693BR', 'HH0384HY', 'CA6558PZ',
-                'BH8770OB', 'HH2772UM', 'CA7711DW', 'HH1431XO', 'AI7798TY', 'AI5479BQ', 'AI9194VA', 'AI4987SZ',
+               'BH8770OB', 'HH2772UM', 'CA7711DW', 'HH1431XO', 'AI7798TY', 'AI5479BQ', 'AI9194VA', 'AI4987SZ',
                'CA3596OQ', 'HH3179YB', 'HH9257TB', 'CA1283JM', 'CA4407NW', 'CA3406IX', 'HH3382OK', 'HH1532AF',
                'CA3542AH', 'AI4410MR', 'CA0854QZ', 'CA4448WO', 'CA8594GE', 'CA2002MG', 'BH1595SC', 'CA0828HE',
                'HH1172QR', 'HH6589NP', 'AI8079KI', 'HH0390XU', 'AI3212IT', 'BH6446GU', 'HH8009KT', 'AI8962RC',
@@ -106,7 +106,7 @@ plates_list = ['HH9901CC', 'CA9150WC', 'BH7144WB', 'AI7665KU', 'AI8045DS', 'HH12
                'CA2593QI', 'AI9342FB', 'CA9763ZR', 'BH9001CY', 'HH3231TK', 'CA2633QH', 'BH7388BK', 'CA9999AU',
                'CA5633HZ', 'HH8883XG', 'CA6737HF', 'HH5510FG', 'AI9982SI', 'BH9362OX', 'CA3775XA', 'AI1942IA',
                'AI2156CW', 'CA5212ES', 'BH2542HT', 'CA4640PP', 'BH5931EW', 'CA0844TY', 'CA6694EX', 'BH4053PH',
-                'HH0965ZL', 'HH1909XZ', 'AI1368DE', 'AI4300UU', 'CA1449SC', 'HH7097ZH', 'BH3044HJ', 'AI4460GE',
+               'HH0965ZL', 'HH1909XZ', 'AI1368DE', 'AI4300UU', 'CA1449SC', 'HH7097ZH', 'BH3044HJ', 'AI4460GE',
                'CA4431SI', 'HH6453ZG', 'CA3480YI', 'AI3020PB', 'BH0008KK', 'HH9482LY', 'CA1227OW', 'CA3931XQ',
                'HH0200HE', 'CA0044VF', 'HH2188DO', 'HH3420UK', 'HH4469SG', 'BH3906HM', 'HH9601US', 'HH7603BV',
                'AI6337LJ', 'BH9973DJ', 'AI0389DC', 'AI3931TH', 'HH9269VV', 'AI7086OE', 'HH0983UX', 'BH5121FD',
@@ -123,11 +123,11 @@ plates_list = ['HH9901CC', 'CA9150WC', 'BH7144WB', 'AI7665KU', 'AI8045DS', 'HH12
                'BH8997CL', 'HH2817NA', 'HH1700EI', 'HH1527WZ', 'AI9398TP', 'HH0792PD', 'CA0281LG', 'BH9209YY',
                'AI7453WB', 'HH7030IC', 'HH8046BN', 'AI6783OP', 'HH0151SV', 'AI5535VY', 'AI3313ON', 'AI5701WH',
                'CA5050SB', 'HH9269VV', 'AI0045RJ', 'HH8609RB']
-#1 part of homework
-unique_cars = set(plates_list) #находим уникальные
-print(len(unique_cars))# выводим кол-во
+# 1 part of homework
+unique_cars = set(plates_list)  # находим уникальные
+print(len(unique_cars))  # выводим кол-во
 
-#2 part of homework
+# 2 part of homework
 
 x = input("Enter car number: ")
 y = x.upper()
@@ -136,7 +136,7 @@ if y in plates_list:
 else:
     print(f"Sorry, number {y} is not in the list!")
 
-#3 part of homework
+# 3 part of homework
 
 string = input("Enter car number again: ")
 m = 0
